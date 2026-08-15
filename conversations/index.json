@@ -1,5 +1,14 @@
 [
   {
+    "id": "e3131031-3355-4295-aff7-6d2da489db44",
+    "title": "Ego video data for cross-embodiment",
+    "created_at": "2026-08-15T06:07:59.905Z",
+    "updated_at": "2026-08-15T09:59:25Z",
+    "message_count": 12,
+    "dialogue_sha256": "a555279d37a4784384fff16c8db4c240da927384a8757dffa25df6cc5067ad66",
+    "preview": "ego数据本质是video数据 现在dyna2证明了cross embodiment的核心是video prediction 那个ego数据一定要是第一人称人和世界交互的视频吗 不能是第一人称的虚拟视频比如第一人称游戏？又或是一定要是第一人"
+  },
+  {
     "id": "c22e4d99-cc2b-467e-9bb2-a7a3163bcb3b",
     "title": "Claude App Multi-round Acceptance",
     "created_at": "2026-08-15T08:45:25.862Z",
