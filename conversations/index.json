@@ -5,7 +5,8 @@
     "created_at": "2026-08-15T08:36:04.337Z",
     "updated_at": "2026-08-15T08:36:39Z",
     "message_count": 6,
-    "dialogue_sha256": "124a61034b4a25b9ef11a7f4823313115827e2f1803ae2f0b629ca0826b9807d"
+    "dialogue_sha256": "124a61034b4a25b9ef11a7f4823313115827e2f1803ae2f0b629ca0826b9807d",
+    "preview": "这是 Dialogue Vault 的真实验收新任务。先只回答这一轮：请用两句话介绍你最喜欢的一种自然现象，并在第二句准确保留标记 CODEX-ROUND-1-青色潮汐。不要归档，等我下一轮。"
   },
   {
     "id": "01a00478-1c59-7d82-bb91-ac06349fa97c",
@@ -13,6 +14,7 @@
     "created_at": "2026-08-15T08:09:35.577Z",
     "updated_at": "2026-08-15T08:16:23Z",
     "message_count": 5,
-    "dialogue_sha256": "1b0bb01aba04f81a8285d346c81f0431d12bbfbd0714156ff00e1aee581dc1de"
+    "dialogue_sha256": "1b0bb01aba04f81a8285d346c81f0431d12bbfbd0714156ff00e1aee581dc1de",
+    "preview": "我希望你做一个skill 这个skill就是可以把那个当前的那个就是就是当前的那个我跟AI的对话，那个就是我跟AI在当前筛选的这个完整的完整的对话。"
   }
 ]

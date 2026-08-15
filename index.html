@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="公开对话归档与收藏">
+  <meta name="description" content="逐字保存的公开对话收藏">
   <title>Dialogue Vault</title>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -11,11 +11,13 @@
   <div class="shell">
     <aside class="sidebar">
       <header class="brand">
-        <div class="mark" aria-hidden="true">DV</div>
-        <div><h1>Dialogue Vault</h1><p>公开对话收藏</p></div>
+        <div class="mark" aria-hidden="true"><span></span><span></span></div>
+        <div><h1>Dialogue Vault</h1><p>逐字对话收藏</p></div>
       </header>
-      <label class="search"><span>搜索</span><input id="search" type="search" placeholder="搜索标题" autocomplete="off"></label>
+      <div class="collection-meta"><strong id="total">0</strong><span>篇公开归档</span></div>
+      <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索标题与正文" autocomplete="off"></label>
       <nav id="list" aria-label="对话列表"></nav>
+      <footer class="side-footer">原文存储 · 可验证哈希</footer>
     </aside>
     <main id="reader" class="reader">
       <div class="empty">正在载入归档…</div>
