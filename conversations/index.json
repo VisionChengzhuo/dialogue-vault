@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "01a00478-1c59-7d82-bb91-ac06349fa97c",
+    "title": "创建逐字公开对话归档 Skill",
+    "created_at": "2026-08-15T08:09:35.577Z",
+    "updated_at": "2026-08-15T08:16:23Z",
+    "message_count": 5,
+    "dialogue_sha256": "1b0bb01aba04f81a8285d346c81f0431d12bbfbd0714156ff00e1aee581dc1de"
+  }
+]
