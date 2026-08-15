@@ -1,5 +1,14 @@
 [
   {
+    "id": "c22e4d99-cc2b-467e-9bb2-a7a3163bcb3b",
+    "title": "Claude App Multi-round Acceptance",
+    "created_at": "2026-08-15T08:45:25.862Z",
+    "updated_at": "2026-08-15T09:08:36Z",
+    "message_count": 12,
+    "dialogue_sha256": "935431a40d492518a105ef4fa240ff7acbe834fe7b10614d41210da19fd55b7c",
+    "preview": "Dialogue Vault Claude App acceptance round one. Reply with exactly two sentences about a forest after rain. The second s"
+  },
+  {
     "id": "1025e002-5568-4f87-97fd-939f34fa4e95",
     "title": "Claude App Max Permission Acceptance",
     "created_at": "2026-08-15T09:01:38.678Z",
@@ -7,15 +16,6 @@
     "message_count": 7,
     "dialogue_sha256": "bb84d6ce9e6827e87a156b4b8edf633ccaf0ec2cc0426225d1c613a826af2b66",
     "preview": "Final max-permission acceptance round one. Run Bash curl -fsSL https://visionchengzhuo.github.io/dialogue-vault/conversa"
-  },
-  {
-    "id": "c22e4d99-cc2b-467e-9bb2-a7a3163bcb3b",
-    "title": "Claude App Multi-round Acceptance",
-    "created_at": "2026-08-15T08:45:25.862Z",
-    "updated_at": "2026-08-15T08:51:27Z",
-    "message_count": 15,
-    "dialogue_sha256": "f2dbbe8d897cb5bc8f53dae42a6ae55703b0e65f4d2c4012a82f0bdf2763cdc4",
-    "preview": "Dialogue Vault Claude App acceptance round one. Reply with exactly two sentences about a forest after rain. The second s"
   },
   {
     "id": "01a00490-5a70-7230-8105-c2f4d718fe38",
