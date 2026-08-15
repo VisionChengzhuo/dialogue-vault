@@ -1,5 +1,14 @@
 [
   {
+    "id": "c22e4d99-cc2b-467e-9bb2-a7a3163bcb3b",
+    "title": "Claude App Multi-round Acceptance",
+    "created_at": "2026-08-15T08:45:25.862Z",
+    "updated_at": "2026-08-15T08:51:27Z",
+    "message_count": 15,
+    "dialogue_sha256": "f2dbbe8d897cb5bc8f53dae42a6ae55703b0e65f4d2c4012a82f0bdf2763cdc4",
+    "preview": "Dialogue Vault Claude App acceptance round one. Reply with exactly two sentences about a forest after rain. The second s"
+  },
+  {
     "id": "01a00490-5a70-7230-8105-c2f4d718fe38",
     "title": "Codex App 多轮真实验收",
     "created_at": "2026-08-15T08:36:04.337Z",
