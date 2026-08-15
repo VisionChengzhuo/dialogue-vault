@@ -1,5 +1,13 @@
 [
   {
+    "id": "01a00490-5a70-7230-8105-c2f4d718fe38",
+    "title": "Codex App 多轮真实验收",
+    "created_at": "2026-08-15T08:36:04.337Z",
+    "updated_at": "2026-08-15T08:36:39Z",
+    "message_count": 6,
+    "dialogue_sha256": "124a61034b4a25b9ef11a7f4823313115827e2f1803ae2f0b629ca0826b9807d"
+  },
+  {
     "id": "01a00478-1c59-7d82-bb91-ac06349fa97c",
     "title": "创建逐字公开对话归档 Skill",
     "created_at": "2026-08-15T08:09:35.577Z",
