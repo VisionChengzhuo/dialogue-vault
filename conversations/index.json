@@ -1,5 +1,14 @@
 [
   {
+    "id": "1025e002-5568-4f87-97fd-939f34fa4e95",
+    "title": "Claude App Max Permission Acceptance",
+    "created_at": "2026-08-15T09:01:38.678Z",
+    "updated_at": "2026-08-15T09:05:42Z",
+    "message_count": 7,
+    "dialogue_sha256": "861f5210032102d6f562b80dfe19099594c4eeee57404c58aad07118d22f5026",
+    "preview": "Final max-permission acceptance round one. Run Bash curl -fsSL https://visionchengzhuo.github.io/dialogue-vault/conversa"
+  },
+  {
     "id": "c22e4d99-cc2b-467e-9bb2-a7a3163bcb3b",
     "title": "Claude App Multi-round Acceptance",
     "created_at": "2026-08-15T08:45:25.862Z",
